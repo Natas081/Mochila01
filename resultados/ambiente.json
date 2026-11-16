@@ -1,0 +1,37 @@
+{
+  "inicio_utc": "2026-11-16T12:32:59.479641+00:00",
+  "sistema": "Microsoft Windows 11 Home Single Language",
+  "versao_sistema": "10.0.26200",
+  "cpu": "13th Gen Intel(R) Core(TM) i5-1334U",
+  "ram_bytes": 16849256448,
+  "python": "3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]",
+  "python_bits": 64,
+  "arquitetura_host": "AMD64",
+  "gcc": "gcc (MinGW.org GCC-6.3.0-1) 6.3.0",
+  "alvo_gcc": "mingw32",
+  "flags_c": [
+    "-std=c11",
+    "-O2",
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Werror",
+    "-lpsapi"
+  ],
+  "fonte_sha256": "58d252dc1b237c3759c95a5383d37ee13bd1079283f5839469e47cbe6345067a",
+  "manifesto_sha256": "17f8bfcffd2e611442d325bf4f62add9540f60a95e2700517eb8aa4acffee4a4",
+  "semente": 20261116,
+  "tamanhos": [
+    4,
+    6,
+    8,
+    11,
+    15,
+    20
+  ],
+  "repeticoes_tempo": 20,
+  "repeticoes_memoria": 3,
+  "limite_piloto_s": 60,
+  "timeout_pareado_s": 62,
+  "timeout_memoria_s": 180
+}

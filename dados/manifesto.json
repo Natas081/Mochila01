@@ -1,0 +1,299 @@
+[
+  {
+    "id": "principal_n04",
+    "serie": "principal",
+    "n": 4,
+    "W": 80,
+    "semente": 20261120,
+    "arquivo": "principal_n04.txt",
+    "sha256": "27b254b3af12c2cd320dec83ce84f1f92165e38e3239ccda36cac70a84fbdf8b"
+  },
+  {
+    "id": "principal_n06",
+    "serie": "principal",
+    "n": 6,
+    "W": 120,
+    "semente": 20261122,
+    "arquivo": "principal_n06.txt",
+    "sha256": "c22d57edf93d058ffdfd8f188202a604f9c11e8cf49ccfffa8615df56b3725e4"
+  },
+  {
+    "id": "principal_n08",
+    "serie": "principal",
+    "n": 8,
+    "W": 160,
+    "semente": 20261124,
+    "arquivo": "principal_n08.txt",
+    "sha256": "40e644a941485845ec4e5509290aff9c709e9ce3a82e02285aafce972dae49d0"
+  },
+  {
+    "id": "principal_n11",
+    "serie": "principal",
+    "n": 11,
+    "W": 220,
+    "semente": 20261127,
+    "arquivo": "principal_n11.txt",
+    "sha256": "85e63704e519090e80fb9e9d3e7573c435316ba06bdc95ebeedfdae25815f280"
+  },
+  {
+    "id": "principal_n15",
+    "serie": "principal",
+    "n": 15,
+    "W": 300,
+    "semente": 20261131,
+    "arquivo": "principal_n15.txt",
+    "sha256": "3468a0d3e9fccc62f26e5ec5704d4818fd1b5fb99d64e71c5e8904d74f75a259"
+  },
+  {
+    "id": "principal_n20",
+    "serie": "principal",
+    "n": 20,
+    "W": 400,
+    "semente": 20261136,
+    "arquivo": "principal_n20.txt",
+    "sha256": "9aa819113eec95a07f757a1b76f0ac27d82acf4597b976bb18308f38523d71d8"
+  },
+  {
+    "id": "capacidade_w00000",
+    "serie": "capacidade",
+    "n": 12,
+    "W": 0,
+    "semente": 20261128,
+    "arquivo": "capacidade_w00000.txt",
+    "sha256": "51d827463117a82f8d1fbbb95806db7f8de8daa2f655157207718676232caf8e"
+  },
+  {
+    "id": "capacidade_w00240",
+    "serie": "capacidade",
+    "n": 12,
+    "W": 240,
+    "semente": 20261128,
+    "arquivo": "capacidade_w00240.txt",
+    "sha256": "ea0cc904a3c6244e7d5f8892429952dd7e412db8e9449b9e3aa75c84de8735dd"
+  },
+  {
+    "id": "capacidade_w02400",
+    "serie": "capacidade",
+    "n": 12,
+    "W": 2400,
+    "semente": 20261128,
+    "arquivo": "capacidade_w02400.txt",
+    "sha256": "a07e60a02be94602b14b8d253c42fa5261b1ffc3f35d8621afa6630e779af01f"
+  },
+  {
+    "id": "capacidade_w24000",
+    "serie": "capacidade",
+    "n": 12,
+    "W": 24000,
+    "semente": 20261128,
+    "arquivo": "capacidade_w24000.txt",
+    "sha256": "fa2ffd72ac3cfe307f1fe52b16fab90b5fbf0f891bd1814516e3dfa8ab579ec3"
+  },
+  {
+    "id": "peso_zero",
+    "serie": "perfil",
+    "n": 12,
+    "W": 240,
+    "semente": 20261128,
+    "arquivo": "peso_zero.txt",
+    "sha256": "c5ee27d3114ee8228b88cea8200ba6b0527b764636ae8e3c5a588da7b090fa76"
+  },
+  {
+    "id": "peso_excessivo",
+    "serie": "perfil",
+    "n": 12,
+    "W": 240,
+    "semente": 20261128,
+    "arquivo": "peso_excessivo.txt",
+    "sha256": "1adde7ae74bf8a6c7df6e567b7c4d0b35531b97e513e0fb891a28039b733187d"
+  },
+  {
+    "id": "piloto_n20",
+    "serie": "piloto",
+    "n": 20,
+    "W": 400,
+    "semente": 20261136,
+    "arquivo": "piloto_n20.txt",
+    "sha256": "9aa819113eec95a07f757a1b76f0ac27d82acf4597b976bb18308f38523d71d8"
+  },
+  {
+    "id": "piloto_n21",
+    "serie": "piloto",
+    "n": 21,
+    "W": 420,
+    "semente": 20261137,
+    "arquivo": "piloto_n21.txt",
+    "sha256": "ed58c5abb8e2cf14996dc0b3fed60c383aa72460aebc2ed9cc4be58e23dfef7d"
+  },
+  {
+    "id": "piloto_n22",
+    "serie": "piloto",
+    "n": 22,
+    "W": 440,
+    "semente": 20261138,
+    "arquivo": "piloto_n22.txt",
+    "sha256": "5070b85e4b497a4c48247e697fd4a72c033c2a5a5b6316d8883fef90eb09d78b"
+  },
+  {
+    "id": "piloto_n23",
+    "serie": "piloto",
+    "n": 23,
+    "W": 460,
+    "semente": 20261139,
+    "arquivo": "piloto_n23.txt",
+    "sha256": "846e117543f45b4e337d744e76a3b640f27adfbc0a386002b2b45f9674963a06"
+  },
+  {
+    "id": "piloto_n24",
+    "serie": "piloto",
+    "n": 24,
+    "W": 480,
+    "semente": 20261140,
+    "arquivo": "piloto_n24.txt",
+    "sha256": "6466147e31da031b05be0ca8ecffddcc1ef7e9d29b9fa617f14fd856057d9345"
+  },
+  {
+    "id": "piloto_n25",
+    "serie": "piloto",
+    "n": 25,
+    "W": 500,
+    "semente": 20261141,
+    "arquivo": "piloto_n25.txt",
+    "sha256": "308a9e5ac33c6a480010640385377ea4bfce02fad1b9601b84311e50f0a18823"
+  },
+  {
+    "id": "piloto_n26",
+    "serie": "piloto",
+    "n": 26,
+    "W": 520,
+    "semente": 20261142,
+    "arquivo": "piloto_n26.txt",
+    "sha256": "6057867e68cc1dc7621aec6dc4a143f9b28669ed0f198297959fad257df53f97"
+  },
+  {
+    "id": "piloto_n27",
+    "serie": "piloto",
+    "n": 27,
+    "W": 540,
+    "semente": 20261143,
+    "arquivo": "piloto_n27.txt",
+    "sha256": "737756a7276de6322a083a10801c3c2374fffd478feb9596ef1ba21905a87d6d"
+  },
+  {
+    "id": "piloto_n28",
+    "serie": "piloto",
+    "n": 28,
+    "W": 560,
+    "semente": 20261144,
+    "arquivo": "piloto_n28.txt",
+    "sha256": "537df5527740017a1b6d8535a05b9ce4b8e567b1e0ebc32edc15e1c45c7be121"
+  },
+  {
+    "id": "piloto_n29",
+    "serie": "piloto",
+    "n": 29,
+    "W": 580,
+    "semente": 20261145,
+    "arquivo": "piloto_n29.txt",
+    "sha256": "0b4152c29611fe5d71bbfb07ffe333dddc85be57496bd83c64f5dd3c7096ae6b"
+  },
+  {
+    "id": "piloto_n30",
+    "serie": "piloto",
+    "n": 30,
+    "W": 600,
+    "semente": 20261146,
+    "arquivo": "piloto_n30.txt",
+    "sha256": "54dc1d657bc4da217d8d9572ac4c2410799594da32a5236927a772a04655d16a"
+  },
+  {
+    "id": "piloto_n31",
+    "serie": "piloto",
+    "n": 31,
+    "W": 620,
+    "semente": 20261147,
+    "arquivo": "piloto_n31.txt",
+    "sha256": "057a0456b08b7809c0838f53bab15f0ab77bd27d744c8b4e869eb9bf44452ac6"
+  },
+  {
+    "id": "piloto_n32",
+    "serie": "piloto",
+    "n": 32,
+    "W": 640,
+    "semente": 20261148,
+    "arquivo": "piloto_n32.txt",
+    "sha256": "f6124869a9bafdf9109bbfee48dc2f57c56776d4932270f49ce9181c460c1a4f"
+  },
+  {
+    "id": "piloto_n33",
+    "serie": "piloto",
+    "n": 33,
+    "W": 660,
+    "semente": 20261149,
+    "arquivo": "piloto_n33.txt",
+    "sha256": "c11ab2827b3d89887b06f135783f49956fffd2384650e32629ec98092905bd08"
+  },
+  {
+    "id": "piloto_n34",
+    "serie": "piloto",
+    "n": 34,
+    "W": 680,
+    "semente": 20261150,
+    "arquivo": "piloto_n34.txt",
+    "sha256": "e4d69089a83aacf78b90d7546631b6ace0a974637542d59df106fba0dd7500fc"
+  },
+  {
+    "id": "piloto_n35",
+    "serie": "piloto",
+    "n": 35,
+    "W": 700,
+    "semente": 20261151,
+    "arquivo": "piloto_n35.txt",
+    "sha256": "f4f6866ae8bd303bf6fbebae5793b7006a98a8eda1725d097061aea37ac98bc7"
+  },
+  {
+    "id": "piloto_n36",
+    "serie": "piloto",
+    "n": 36,
+    "W": 720,
+    "semente": 20261152,
+    "arquivo": "piloto_n36.txt",
+    "sha256": "97bc1e093f4a81a8f5c5cd18de088420e5aaef7574d4e84ecda978b7d787bebe"
+  },
+  {
+    "id": "piloto_n37",
+    "serie": "piloto",
+    "n": 37,
+    "W": 740,
+    "semente": 20261153,
+    "arquivo": "piloto_n37.txt",
+    "sha256": "35164bb8f7592092896e68d42d634277080c01657ba53e5993f199012a36bf40"
+  },
+  {
+    "id": "piloto_n38",
+    "serie": "piloto",
+    "n": 38,
+    "W": 760,
+    "semente": 20261154,
+    "arquivo": "piloto_n38.txt",
+    "sha256": "99ed023a1ac31c315a100b1042a73fcfa9d3587bb55743bb6496fd3f4485b6e9"
+  },
+  {
+    "id": "piloto_n39",
+    "serie": "piloto",
+    "n": 39,
+    "W": 780,
+    "semente": 20261155,
+    "arquivo": "piloto_n39.txt",
+    "sha256": "c202e474fa19aca7a8d62a530349f8c31db9b3afb165ce81b13cdae7d141bf75"
+  },
+  {
+    "id": "piloto_n40",
+    "serie": "piloto",
+    "n": 40,
+    "W": 800,
+    "semente": 20261156,
+    "arquivo": "piloto_n40.txt",
+    "sha256": "fa3db472f3b9364b2d11322d632e8bf74c0f7f2e0ef566c974b8aabf944c57f5"
+  }
+]

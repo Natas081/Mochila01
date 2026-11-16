@@ -1,0 +1,6 @@
+/dados/*.txt text eol=lf
+/dados/manifesto.json text eol=lf
+/c/* text eol=lf
+/python/*.py text eol=lf
+/experimentos/*.py text eol=lf
+/testes/*.py text eol=lf

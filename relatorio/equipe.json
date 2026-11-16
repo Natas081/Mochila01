@@ -1,0 +1,11 @@
+{
+  "instituicao": "",
+  "disciplina": "Teoria da Computação",
+  "docente": "Prof. Daniel Bezerra",
+  "integrantes": [
+    {"nome": "[Nome do integrante 1]", "contribuicao": "[Descrever contribuição efetiva]"},
+    {"nome": "[Nome do integrante 2]", "contribuicao": "[Descrever contribuição efetiva]"},
+    {"nome": "[Nome do integrante 3]", "contribuicao": "[Descrever contribuição efetiva]"},
+    {"nome": "[Nome do integrante 4]", "contribuicao": "[Descrever contribuição efetiva]"}
+  ]
+}
